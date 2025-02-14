@@ -1,0 +1,33 @@
+Description Order:
+
+cus_mail: Email của khách hàng.
+cus_name: Tên khách hàng.
+cus_mobi: Số điện thoại của khách hàng.
+course_mode_id: Mã chế độ khóa học (liên kết với file mode).
+course_schedule: Lịch học của khóa học.
+payment_amount: Số tiền thanh toán.
+payment_status: Trạng thái thanh toán.
+cus_pic_id: Mã người phụ trách khách hàng.
+lead_source: Nguồn khách hàng tiềm năng.
+payment_date: Ngày thanh toán.
+payment_method: Phương thức thanh toán.
+total_fee: Tổng học phí.
+lead_id: Mã khách hàng tiềm năng.
+actually_received: Số tiền thực tế nhận được.
+original_fee: Học phí gốc.
+cus_location_id: Mã địa điểm của khách hàng (liên kết với file location).
+
+
+
+
+Description mode:
+mode: Hình thức học của khóa học 
+
+
+
+
+
+Description location:
+code: Viết tắt của tỉnh thành
+name: Tên đầy đủ của tỉnh thành
+
